@@ -1,9 +1,5 @@
 
-.container1{
-  background-color:grey;
-  justify-content:center;
-  
-}
+
 .container{
     display:flex;
     justify-content:center;
@@ -43,6 +39,43 @@
             border-radius: 10px;
             display: block;
           }
+
+          .iklan{
+
+    width:34rem;
+   height: 42 px;
+    border-radius:12px;
+    box-shadow: 0 1px 2px rgba(19, 19, 19, 0.4);
+    overflow: hidden;
+}
+.iklan img{
+    width: 34rem;
+   height: 42 px;
+    display: block;
+    background-color: grey;}
+
+    
+          .category{
+
+    width:5rem;
+   height: 60px;
+    border-radius:100%;
+    box-shadow: 0 1px 2px rgba(19, 19, 19, 0.4);
+    overflow: hidden;
+    margin-top: 20px;
+    margin-bottom: 30px;
+   
+}
+.category img{
+    width: 5rem;
+   height: 60px;
+    display: block;
+    background-color: grey;
+    
+}
+    
+    
+
 
          
           
